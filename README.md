@@ -1,2 +1,5 @@
-# EMS-SQL-Manager-for-PostgreSQL-v6.6-build-58686-x64-
-EMS SQL Manager for PostgreSQL v6.6 build 58686 (x64)
+# EMS SQL Manager for PostgreSQL v6.6 build 58686 (x64)
+
+EMS SQL Manager for PostgreSQL is a high performance tool for PostgreSQL database administration and development. It works with any PostgreSQL versions up to the newest one and supports the latest PostgreSQL features including exclusion constrains, ‘when’ clause of triggers, functions returning table, and others. SQL Manager for PostgreSQL offers plenty of powerful database tools such as Visual Database Designer to create PostgreSQL database in few clicks, Visual Query Builder to build complicated PostgreSQL queries, powerful BLOB editor and many more useful features for efficient PostgreSQL administration. SQL Manager for PostgreSQL has a state-of-the-art graphical user interface with well-described wizard system, so clear in use that even a newbie will not be confused with it.
+
+# [Download EMS SQL Manager for PostgreSQL v6.6 build 58686 (x64)](https://developer.team/database-development/35120-ems-sql-manager-for-postgresql-v66-build-58686-x64.html)
